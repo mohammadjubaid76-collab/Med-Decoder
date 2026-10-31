@@ -1,0 +1,6 @@
+{
+  "name": "Med-Decoder – Vernacular Lab Report Simplifier",
+  "description": "AI-powered healthcare platform to decode complex medical lab reports and doctor prescriptions into simple vernacular English, Hindi (हिंदी), and Marathi (मराठी).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
